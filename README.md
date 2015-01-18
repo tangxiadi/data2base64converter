@@ -2,7 +2,7 @@
 Convert Image or Text to Base64 string.
 
 ## Image
-Common image converted Base64 string.Supported image formats: **JPEG**/**PNG**/**GIF**/**BMP**
+Common image converted Base64 string. Supported image formats: **JPEG**/**PNG**/**GIF**/**BMP**
 
 Pictures can be a local server file (Path), or a network server file (Url).
 
