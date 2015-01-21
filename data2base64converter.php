@@ -1,5 +1,5 @@
 <?php
-error_reporting(E_ALL^E_NOTICE^E_WARNING);
+error_reporting(E_ALL^E_NOTICE^E_WARNING);//Ignore the error
 $text = ( isset( $_REQUEST['text'] ) && ! empty( $_REQUEST['text'] ) ) ? $_REQUEST['text'] : '';
 $filename = ( isset( $_REQUEST['filename'] ) && ! empty( $_REQUEST['filename'] ) ) ? $_REQUEST['filename'] : '';
 $url = "";
